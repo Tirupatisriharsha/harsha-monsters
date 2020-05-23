@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/harsha-monsters/static/css/main.289d7ce3.chunk.css",
+    "main.js": "/harsha-monsters/static/js/main.a4b7e104.chunk.js",
+    "main.js.map": "/harsha-monsters/static/js/main.a4b7e104.chunk.js.map",
+    "runtime-main.js": "/harsha-monsters/static/js/runtime-main.eb1bf67f.js",
+    "runtime-main.js.map": "/harsha-monsters/static/js/runtime-main.eb1bf67f.js.map",
+    "static/js/2.129ef368.chunk.js": "/harsha-monsters/static/js/2.129ef368.chunk.js",
+    "static/js/2.129ef368.chunk.js.map": "/harsha-monsters/static/js/2.129ef368.chunk.js.map",
+    "index.html": "/harsha-monsters/index.html",
+    "precache-manifest.15b71ea7ab77adae2cd2f1211a1f60a7.js": "/harsha-monsters/precache-manifest.15b71ea7ab77adae2cd2f1211a1f60a7.js",
+    "service-worker.js": "/harsha-monsters/service-worker.js",
+    "static/css/main.289d7ce3.chunk.css.map": "/harsha-monsters/static/css/main.289d7ce3.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb1bf67f.js",
+    "static/js/2.129ef368.chunk.js",
+    "static/css/main.289d7ce3.chunk.css",
+    "static/js/main.a4b7e104.chunk.js"
+  ]
+}
